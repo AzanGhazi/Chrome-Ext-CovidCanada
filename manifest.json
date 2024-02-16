@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Canada",
+    "version": "1.0.0",
+    "description": "latest covid data of Canada",
+    "manifest_version": 3,
+    "author": "Azan Ghazi",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Canada Covid Report"
+    }
+}
